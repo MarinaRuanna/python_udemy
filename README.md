@@ -4,4 +4,4 @@ Repositório com minha evolução nas aulas do curso Programação em Python do 
  - Scripts das minhas anotações das aulas
  - Minhas resoluções dos exercicios propostos
  
-<img src="https://media-exp1.licdn.com/dms/image/sync/C4D27AQGfQ_Y3kPGqYQ/articleshare-shrink_800/0/1652122195307?e=1652212800&v=beta&t=u0Q15txwCDfbsmPcPa4oVGcrhOQdLumy7Dvx0ohF3kk" width="700" height="" align="center"/>
+<img src="https://udemy-certificate.s3.amazonaws.com/image/UC-2c599531-c81f-46dd-b33d-d53e17752de1.jpg?v=1652121726000" width="700" height=""/>
